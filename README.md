@@ -1,0 +1,2 @@
+# .tmux
+Tmux configuration file.
